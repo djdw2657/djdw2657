@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height200&section=header&text=Dongjin" "Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height200&section=header&text=Dongjin&nbsp;Lee&fontSize=90)
 
 <h2 align="center">  ☁️ I am currently looking for job opportunities as an Android developer  ☁️  </h2> 
 <br>
