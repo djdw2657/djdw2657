@@ -3,7 +3,7 @@
 <h2 align="center">  ☁️ I am currently looking for job opportunities as an Android developer  ☁️  </h2> 
 <br>
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhathe-downtown&count_bg=%231A3A87&title_bg=%23007FDC&icon=airplayvideo.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a></br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdjdw2657&count_bg=%231A3A87&title_bg=%23007FDC&icon=airplayvideo.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a></br>
   Hi there 👋
 <br><br>
 Hi, my name is Dongjin Lee. I’m an Android Developer and technology enthusiast. Love working on a new and exciting projects, sharing my knowledge with others, and always willing to learn more.
