@@ -6,7 +6,7 @@
 <br><br>
 Hi, my name is Dongjin Lee. I’m an Android Developer and technology enthusiast. Love working on a new and exciting projects, sharing my knowledge with others, and always willing to learn more.
 <br><br>
-I believe that permanent education is the key to success. I’ve been learning to work as a developer for a year so far.
+I believe that permanent education is the key to success. I’ve been learning as a developer for a year.
 </p>
 <h4 align="center"> Hobbies: 📚  🏃‍♀️ 💪  <br> Languages: KR EN (Fluent) </h4>
 <p align ="center"><img src="https://widget.realdeveloper.pro/api/top?stack=Kotlin,Java,Python"/></p>
